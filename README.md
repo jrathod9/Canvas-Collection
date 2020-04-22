@@ -9,7 +9,14 @@ A collection of my canvas projects.
 ## Catastrophe
 <center><img src="https://github.com/jrathod9/Canvas-Collection/blob/master/Catastrophe/demo.gif?raw=true"></center>
 
-## 
-<center><img src=""></center>
-<center><img src=""></center>
-<center><img src=""></center>
+## Layers Effect
+<center><img src="https://github.com/jrathod9/Canvas-Collection/blob/master/Layers%20Effect/demo.gif?raw=true"></center>
+
+## Partcile effect
+<center><img src="https://github.com/jrathod9/Canvas-Collection/blob/master/Particles%20Effect/demo.gif?raw=true"></center>
+
+## Slingshot Teleporter
+<center><img src="https://github.com/jrathod9/Canvas-Collection/blob/master/Slingshot%20teleporter/demo.gif?raw=true"></center>
+
+## Snakes
+<center><img src="https://github.com/jrathod9/Canvas-Collection/blob/master/Snakes/demo.gif?raw=true"></center>
