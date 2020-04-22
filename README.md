@@ -1,5 +1,4 @@
 # :art:Canvas-Collection 
-A collection of my canvas projects.
 ## Bubble Cursor
 <center><img src="https://github.com/jrathod9/Canvas-Collection/blob/master/Bubble%20Cursor/demo.gif?raw=true"></center>
 
